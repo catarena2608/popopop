@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\calculator reall\calculator reall\bin\Debug\net8.0-windows\calculator reall.exe
+C:\Users\Admin\source\repos\calculator reall\calculator reall\bin\Debug\net8.0-windows\calculator reall.deps.json
+C:\Users\Admin\source\repos\calculator reall\calculator reall\bin\Debug\net8.0-windows\calculator reall.runtimeconfig.json
+C:\Users\Admin\source\repos\calculator reall\calculator reall\bin\Debug\net8.0-windows\calculator reall.dll
+C:\Users\Admin\source\repos\calculator reall\calculator reall\bin\Debug\net8.0-windows\calculator reall.pdb
+C:\Users\Admin\source\repos\calculator reall\calculator reall\obj\Debug\net8.0-windows\calculator_reall.Form1.resources
+C:\Users\Admin\source\repos\calculator reall\calculator reall\obj\Debug\net8.0-windows\calculator reall.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\calculator reall\calculator reall\obj\Debug\net8.0-windows\calculator reall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\calculator reall\calculator reall\obj\Debug\net8.0-windows\calculator reall.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\calculator reall\calculator reall\obj\Debug\net8.0-windows\calculator reall.AssemblyInfo.cs
+C:\Users\Admin\source\repos\calculator reall\calculator reall\obj\Debug\net8.0-windows\calculator reall.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\calculator reall\calculator reall\obj\Debug\net8.0-windows\calculator reall.dll
+C:\Users\Admin\source\repos\calculator reall\calculator reall\obj\Debug\net8.0-windows\refint\calculator reall.dll
+C:\Users\Admin\source\repos\calculator reall\calculator reall\obj\Debug\net8.0-windows\calculator reall.pdb
+C:\Users\Admin\source\repos\calculator reall\calculator reall\obj\Debug\net8.0-windows\calculator reall.genruntimeconfig.cache
+C:\Users\Admin\source\repos\calculator reall\calculator reall\obj\Debug\net8.0-windows\ref\calculator reall.dll
